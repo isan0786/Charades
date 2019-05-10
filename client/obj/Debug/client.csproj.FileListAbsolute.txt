@@ -1,0 +1,11 @@
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\obj\Debug\client.Form1.resources
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\obj\Debug\client.Login.resources
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\obj\Debug\client.Properties.Resources.resources
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\bin\Debug\client.exe.config
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\bin\Debug\client.exe
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\bin\Debug\client.pdb
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\obj\Debug\client.exe
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\obj\Debug\client.pdb

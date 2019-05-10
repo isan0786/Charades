@@ -1,0 +1,6 @@
+C:\Data\College\Sem4\C#\final_project\solution\charades\Game\bin\Debug\Game.dll
+C:\Data\College\Sem4\C#\final_project\solution\charades\Game\bin\Debug\Game.pdb
+C:\Data\College\Sem4\C#\final_project\solution\charades\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Data\College\Sem4\C#\final_project\solution\charades\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Data\College\Sem4\C#\final_project\solution\charades\Game\obj\Debug\Game.dll
+C:\Data\College\Sem4\C#\final_project\solution\charades\Game\obj\Debug\Game.pdb

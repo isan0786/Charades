@@ -1,0 +1,6 @@
+C:\Data\College\Sem4\C#\final_project\solution\charades\ServiceAssembly\obj\Debug\ServiceAssembly.csproj.CoreCompileInputs.cache
+C:\Data\College\Sem4\C#\final_project\solution\charades\ServiceAssembly\bin\Debug\ServiceAssembly.dll
+C:\Data\College\Sem4\C#\final_project\solution\charades\ServiceAssembly\bin\Debug\ServiceAssembly.pdb
+C:\Data\College\Sem4\C#\final_project\solution\charades\ServiceAssembly\obj\Debug\ServiceAssembly.csprojResolveAssemblyReference.cache
+C:\Data\College\Sem4\C#\final_project\solution\charades\ServiceAssembly\obj\Debug\ServiceAssembly.dll
+C:\Data\College\Sem4\C#\final_project\solution\charades\ServiceAssembly\obj\Debug\ServiceAssembly.pdb

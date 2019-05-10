@@ -1,0 +1,15 @@
+C:\Data\College\Sem4\C#\final_project\solution\charades\server\bin\x64\Debug\server.exe.config
+C:\Data\College\Sem4\C#\final_project\solution\charades\server\bin\x64\Debug\server.exe
+C:\Data\College\Sem4\C#\final_project\solution\charades\server\bin\x64\Debug\server.pdb
+C:\Data\College\Sem4\C#\final_project\solution\charades\server\bin\x64\Debug\ServiceAssembly.dll
+C:\Data\College\Sem4\C#\final_project\solution\charades\server\bin\x64\Debug\ServiceAssembly.pdb
+C:\Data\College\Sem4\C#\final_project\solution\charades\server\obj\x64\Debug\server.csprojResolveAssemblyReference.cache
+C:\Data\College\Sem4\C#\final_project\solution\charades\server\obj\x64\Debug\server.Properties.Resources.resources
+C:\Data\College\Sem4\C#\final_project\solution\charades\server\obj\x64\Debug\server.Startup.resources
+C:\Data\College\Sem4\C#\final_project\solution\charades\server\obj\x64\Debug\server.csproj.GenerateResource.cache
+C:\Data\College\Sem4\C#\final_project\solution\charades\server\obj\x64\Debug\server.csproj.CoreCompileInputs.cache
+C:\Data\College\Sem4\C#\final_project\solution\charades\server\obj\x64\Debug\server.csproj.CopyComplete
+C:\Data\College\Sem4\C#\final_project\solution\charades\server\obj\x64\Debug\server.exe
+C:\Data\College\Sem4\C#\final_project\solution\charades\server\obj\x64\Debug\server.pdb
+C:\Data\College\Sem4\C#\final_project\solution\charades\server\obj\x64\Debug\server.ServerUI.resources
+C:\Data\College\Sem4\C#\final_project\solution\charades\server\obj\x64\Debug\server.Results.resources

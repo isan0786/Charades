@@ -1,0 +1,3 @@
+C:\Data\College\Sem4\C#\final_project\solution\charades\ServiceAssembly\bin\x64\Release\ServiceAssembly.dll
+C:\Data\College\Sem4\C#\final_project\solution\charades\ServiceAssembly\obj\x64\Release\ServiceAssembly.csproj.CoreCompileInputs.cache
+C:\Data\College\Sem4\C#\final_project\solution\charades\ServiceAssembly\obj\x64\Release\ServiceAssembly.dll

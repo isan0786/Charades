@@ -1,0 +1,22 @@
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\bin\x64\Debug\client.exe.config
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\bin\x64\Debug\client.exe
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\bin\x64\Debug\client.pdb
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\obj\x64\Debug\client.Form1.resources
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\obj\x64\Debug\client.Login.resources
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\obj\x64\Debug\client.Properties.Resources.resources
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\obj\x64\Debug\client.csproj.GenerateResource.cache
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\obj\x64\Debug\client.csproj.CoreCompileInputs.cache
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\obj\x64\Debug\client.exe
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\obj\x64\Debug\client.pdb
+C:\Data\College\Sem4\C#\final_project\solution\charades\client\obj\x64\Debug\client.csprojResolveAssemblyReference.cache
+E:\College\Semester4\C# and .Net\Final_Project\solution\charades\client\bin\x64\Debug\client.exe.config
+E:\College\Semester4\C# and .Net\Final_Project\solution\charades\client\bin\x64\Debug\client.exe
+E:\College\Semester4\C# and .Net\Final_Project\solution\charades\client\bin\x64\Debug\client.pdb
+E:\College\Semester4\C# and .Net\Final_Project\solution\charades\client\obj\x64\Debug\client.csprojAssemblyReference.cache
+E:\College\Semester4\C# and .Net\Final_Project\solution\charades\client\obj\x64\Debug\client.Form1.resources
+E:\College\Semester4\C# and .Net\Final_Project\solution\charades\client\obj\x64\Debug\client.Login.resources
+E:\College\Semester4\C# and .Net\Final_Project\solution\charades\client\obj\x64\Debug\client.Properties.Resources.resources
+E:\College\Semester4\C# and .Net\Final_Project\solution\charades\client\obj\x64\Debug\client.csproj.GenerateResource.cache
+E:\College\Semester4\C# and .Net\Final_Project\solution\charades\client\obj\x64\Debug\client.csproj.CoreCompileInputs.cache
+E:\College\Semester4\C# and .Net\Final_Project\solution\charades\client\obj\x64\Debug\client.exe
+E:\College\Semester4\C# and .Net\Final_Project\solution\charades\client\obj\x64\Debug\client.pdb
